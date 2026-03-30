@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Azzam Abdullah Al-Matrafi
+Copyright (c) 2025 Valve Plate Fault Prediction Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Attribution Notice:
+This project is a replication of the research paper:
+"A Dataset and a Comparison of Classification Methods for Valve Plate Fault 
+Prediction of Piston Pump" by Rojek, M. and Blachnik, M. (2023)
+
+Please cite the original paper when using this code in research or publications.
